@@ -61,6 +61,7 @@ export const ProjectData = [
       "A fully functional meditation app built with Flutter and Firebase, offering personalized playlists, guided sessions, and seamless user experience like Spotify. It features secure authentication, cloud storage, and real-time updates for an engaging mindfulness journey.",
     techstack: [
       "Android",
+      "IOS",
     ],
   },
   {
@@ -69,7 +70,9 @@ export const ProjectData = [
       "A paper generation app in Flutter enables quick and efficient creation of exam question papers with a user-friendly interface. It automates the process based on predefined criteria, ensuring accuracy and customization.",
     techstack: [
       "Android",
-    ]
+      "IOS",
+
+        ]
   },
   {
     title: " MWB Bazzar",
@@ -77,6 +80,8 @@ export const ProjectData = [
       "MWB Bazaar is a Flutter-based e-commerce app integrated with APIs, offering a seamless shopping experience with secure user authentication, dynamic product listings, and efficient order management. It supports real-time updates and secure payment integration for smooth transactions.",
     techstack: [
       "Android",
+      "IOS",
+
     ]
   },
   {
@@ -85,6 +90,8 @@ export const ProjectData = [
       "Application is a comprehensive platform designed to streamline team management, facilitate task assignments, and enable task reviews. It also includes features for scheduling and managing meetings, ensuring efficient collaboration and improved productivity for businesses of all sizes.",
     techstack: [
       "Android",
+      "IOS",
+
     ]
   },
  
