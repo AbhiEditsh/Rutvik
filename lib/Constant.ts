@@ -80,9 +80,9 @@ export const ProjectData = [
     ]
   },
   {
-    title: "Janki",
+    title: "Janki ERP",
     description:
-      "Janki is a unique social media application, similar to Twitter, where users can share their social opinions. The platform stands out by requiring approval from 11 users before an opinion is published globally for the larger audience.",
+      "Application is a comprehensive platform designed to streamline team management, facilitate task assignments, and enable task reviews. It also includes features for scheduling and managing meetings, ensuring efficient collaboration and improved productivity for businesses of all sizes.",
     techstack: [
       "Android",
     ]
