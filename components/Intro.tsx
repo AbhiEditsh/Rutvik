@@ -8,7 +8,7 @@ const Intro = () => {
     <div className="flex flex-col gap-4 text-gray-600 dark:text-neutral-400">
       <div className="flex items-center gap-4">
         <NextImage
-          src="PK.jpeg"
+          src="pk.jpeg"
           className="rounded-full"
           height={120}
           width={120}
