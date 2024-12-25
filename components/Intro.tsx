@@ -6,12 +6,12 @@ import NextImage from "./NextImage";
 const Intro = () => {
   return (
     <div className="flex flex-col gap-4 text-gray-600 dark:text-neutral-400">
-      <div className="flex items-center gap-4">
+      <div className="flex items-center gap-4 mb-4">
         <NextImage
           src="pk.jpeg"
           className="rounded-full"
           height={120}
-          width={120}
+          width={100}
           alt="logo"
         />
         <div className="flex flex-col gap-2">
