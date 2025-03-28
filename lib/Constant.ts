@@ -94,6 +94,16 @@ export const ProjectData = [
 
     ]
   },
+  {
+    title: "Kirana Quick",
+    description:
+      "Kirana Quick is an online grocery shopping app designed to make your daily essentials easily accessible. It offers a wide range of kirana (grocery) products, including fresh fruits, vegetables, dairy, snacks, beverages, and household essentials. With a user-friendly interface, secure payments, and fast doorstep delivery, Kirana Quick ensures a hassle-free shopping experience. Customers can browse categories, add items to their cart, and place orders conveniently. ",
+    techstack: [
+      "Android",
+      "IOS",
+
+    ]
+  },
  
 ];
 
