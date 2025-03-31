@@ -5,16 +5,10 @@ import {
 
 export const socialLinks = [
   {
-    id: 1,
-    icon: GitHubLogoIcon,
-    name: "GitHub",
-  },
- 
-  {
-    id: 3,
+    id: 0,
     icon: LinkedInLogoIcon,
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/developer-Rutvik-185148190/",
+    url: "https://www.linkedin.com/in/rutvik-sodvadiya-2a195b284",
   },
 ];
 
