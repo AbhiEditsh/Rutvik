@@ -31,7 +31,7 @@ export const companiesData = [
     location: "Surat, India",
     jobs: [
       {
-        position: "Software Engineer",
+        position: "Flutter developer",
         duration: "April 2023 - December 2024",
         isCurrent: true,
       },
